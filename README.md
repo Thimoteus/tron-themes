@@ -1,8 +1,8 @@
-solarized-dark-gtk
+tron-gtk
 ==================
 
-Solarized Dark color theme for GTK2 and GTK3.  
-This theme is derived from High Contrast Inverse theme and optimized for Xubuntu 12.04. 
+Tron color theme for GTK2 and GTK3.  
+This theme is derived from High Contrast Inverse theme and tested on a Lubuntu system with i3. 
 
 GTK3 is supported, but needs improvements. 
 
@@ -12,17 +12,8 @@ Installation
 
 	mkdir ~/.themes
 	cd ~/.themes
-	git clone git@github.com:jankotek/solarized-dark-gtk.git
+	git clone https://github.com/Thimoteus/tron-gtk-theme
 
-	Now activate `solarized-dark-gtk` theme with Settings Manager.
-	
-
-Screenshots
------------	
-
-![screenshot](https://github.com/jankotek/solarized-dark-gtk/raw/master/screenshot1.png)
-
-![screenshot](https://github.com/jankotek/solarized-dark-gtk/raw/master/screenshot2.png)
-
+	Now activate `tron-gtk` theme with Settings Manager.
 
 
