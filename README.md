@@ -1,19 +1,8 @@
-tron-gtk
-==================
+Tron themes for a linux desktop
+===============================
 
-Tron color theme for GTK2 and GTK3.  
-This theme is derived from High Contrast Inverse theme and tested on a Lubuntu system with i3. 
+This is a collection of tron themes I've encountered or modified.
 
-GTK3 is supported, but needs improvements. 
+Included:
 
-Installation
-------------
-
-
-	mkdir ~/.themes
-	cd ~/.themes
-	git clone https://github.com/Thimoteus/tron-gtk-theme
-
-	Now activate `tron-gtk` theme with Settings Manager.
-
-
+*gtk-2/gtk-3 theme
